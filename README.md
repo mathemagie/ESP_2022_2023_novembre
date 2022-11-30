@@ -28,12 +28,10 @@ Ressources partagées pendant le cours :
 
 - sur le prof :)  : https://www.numerama.com/tech/230559-qui-est-aurelien-fache-cet-api-artist-qui-vous-propose-de-faire-lamour-a-thomas-pesquet.html 
 
+- ma conférence "une journée sous LSD informationnelle" https://www.youtube.com/watch?v=lPRYp4HrdGI&t=2s qui illustre d'autres formes de réalités augmentées.
+
 
 ## cours 2
-
-
-TODO : créer 5 recettes IFTTT ou bien Zapier basées sur des services numériques et au moins une ou deux sur mes objets enchantés
-
 
 1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
 
@@ -51,30 +49,6 @@ TODO : créer 5 recettes IFTTT ou bien Zapier basées sur des services numériqu
 
  https://changecolor-candle.glitch.me/rainbow
  
- 2/ sextoy
- 
- https://pussytalk-client.glitch.me/?id=SDWkq et la page sur laquelle je dois connecter le sextoy
- 
- https://pussytalk.glitch.me/?id=SDWkq
- 
- 
- 3/ light Lego de ma tour Eiffel 
- 
- https://litght-lego-led.glitch.me/home
- 
- 
-ainsi que son API 
-
-allumé : https://litght-lego-led.glitch.me/?light=on
- 
-etéint :  https://litght-lego-led.glitch.me/?light=off
- 
- 4/ train en LEGO 
- 
-https://legotrain.glitch.me/ et son API https://legotrain.glitch.me/api  
-
-
-
 ## cours 3
 
 En mode projet
