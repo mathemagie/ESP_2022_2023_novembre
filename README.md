@@ -1,6 +1,6 @@
 # ESP_cours_2022_2023 
 
-## cours 1
+## Cours 1
 
 Les slides du premier cours : https://docs.google.com/presentation/d/1FTTJll5TPfsFTAIVRCNrNY7ewFFHKAuxYFSQVB8rbqs/edit#slide=id.g75cd6f2284_0_419
 
@@ -26,14 +26,16 @@ Ressources partagées pendant le cours :
 
 - pour en savoir plus sur OWNI : https://www.liberation.fr/ecrans/2011/06/08/un-owni-se-pose-sur-l-edition_956753 
 
-- sur le prof :)  : https://www.numerama.com/tech/230559-qui-est-aurelien-fache-cet-api-artist-qui-vous-propose-de-faire-lamour-a-thomas-pesquet.html 
+- sur le prof  : https://www.numerama.com/tech/230559-qui-est-aurelien-fache-cet-api-artist-qui-vous-propose-de-faire-lamour-a-thomas-pesquet.html 
 
 - ma conférence "une journée sous LSD informationnelle" https://www.youtube.com/watch?v=lPRYp4HrdGI&t=2s qui illustre d'autres formes de réalités augmentées.
 
 
-## cours 2
+## Cours 2
 
-1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+1/ URL afin de connecter la lampe connectée depuis mon navigateur web : https://googlecodelabs-candle-bluetooth.glitch.me/
+
+les URls à appeler depuis un autre programme afin de modifier la couleur de la lampe.
 
  https://changecolor-candle.glitch.me/vert
  
@@ -49,6 +51,11 @@ Ressources partagées pendant le cours :
 
  https://changecolor-candle.glitch.me/rainbow
  
-## cours 3
+ 2/ démonstration de deux mini-projets d'une lampe connectée en WebBluetooth 
 
-En mode projet
+  - changement de couleur d'une lampe connectée selon la température à Paris. Voici le code source du programme en ligne : https://replit.com/@mathemagie/Templight#main.py 
+
+  - changement de couleur d'une lampe connectée la position en temps réel de la stattion Spatuale internationnalle . Voici le code source du programme en ligne : https://replit.com/@mathemagie/ISSlight#main.py
+ 
+
+Le deuxième cours se termine avec la présentation de leur projet.
