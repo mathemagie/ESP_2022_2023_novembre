@@ -2,7 +2,10 @@
 
 ## Cours 1
 
-Les slides du premier cours : https://docs.google.com/presentation/d/1FTTJll5TPfsFTAIVRCNrNY7ewFFHKAuxYFSQVB8rbqs/edit#slide=id.g75cd6f2284_0_419
+Les slides du premier cours :
+
+https://docs.google.com/presentation/d/1FTTJll5TPfsFTAIVRCNrNY7ewFFHKAuxYFSQVB8rbqs/edit?usp=sharing
+
 
 Les slides de FABERNOVEL (6-reasons-why-apis-are-reshaping-your-business) : https://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business
 
